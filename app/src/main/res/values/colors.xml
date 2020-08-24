@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FC4253</color>
-    <color name="colorPrimaryDark">#FC4253</color>
-    <color name="colorAccent">#FDABAE</color>
+    <color name="colorPrimary">#FA9E1A</color>
+    <color name="colorPrimaryDark">#F6841D</color>
+    <color name="colorAccent">#FFC107</color>
 
     <color name="textColorPrimary">#212121</color>
     <color name="textColorSecondary">#757575</color>
@@ -18,7 +18,7 @@
     <color name="background_color_2">#F3F3F3</color>
     <color name="editText_background">#F1F1F1</color>
     <color name="img_background">#F4F4F4</color>
-    <color name="tomato">#FF6347</color>
+    <color name="tomato">#F6841D</color>
     <color name="dots_color">#A5A5A5</color>
     <color name="faceBooK_blue">#343B9D</color>
     <color name="google_red">#CB3634</color>

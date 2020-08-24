@@ -16,11 +16,11 @@ object Constants {
     const val myPreferences = "MyPreferences"
 
     object Config {
-         const  val DEFAULT_URL = "https://iqonic.design/wp-themes/woobox_api/wp-json/"
-         const val consumerKey = "ZH0mxMZ63h22"
-         const val consumerSecret = "z5RTcjT0NseqCYbfTQXaSwSNC054HLp0SGGhqbMKlpWWtOTH"
-         const val token = "gN3kZdeh2Yyh6Ntdvip4Mokf"
-         const val tokenSecret = "EhhwL3Ta6GSevnG6aKd4pCdp2X3rosIivzubXmZxSLkByi31"
+         const  val DEFAULT_URL = "https://wasset.ws/main/wp-json/"
+         const val consumerKey = "6lJaI3R8iE9H"
+         const val consumerSecret = "I2gRPR8gKqn0KdsDJXh1AMH4c15vkHQfDMzVnNq4NIOPT4vm"
+         const val token = "DzxAM38Nl9a6d9RNadr910Yu"
+         const val tokenSecret = "GoPFHys4m6XGwa2IdK9T0LPly54tAlRqr0sDRcF0GtRXWiW1"
 
     }
 
