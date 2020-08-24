@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "654421987855",
-    "firebase_url": "https://woobox-818b2.firebaseio.com",
-    "project_id": "woobox-818b2",
-    "storage_bucket": "woobox-818b2.appspot.com"
+    "project_number": "207043608978",
+    "firebase_url": "https://waseet-4c11f.firebaseio.com",
+    "project_id": "waseet-4c11f",
+    "storage_bucket": "waseet-4c11f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:654421987855:android:ac02b77a6d6ab6533e097a",
+        "mobilesdk_app_id": "1:207043608978:android:2f466076e4bcb3eb6c014b",
         "android_client_info": {
-          "package_name": "com.iqonic.woobox"
+          "package_name": "shop.waseet.market"
         }
       },
       "oauth_client": [
         {
-          "client_id": "654421987855-9efks032v8oanl7k9f82qnbdobg5h8m4.apps.googleusercontent.com",
+          "client_id": "207043608978-89qmmt8gfsa82pfa60qf6a092j6nu2vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shop.waseet.market",
+            "certificate_hash": "7d81102965b1c1b22295dd25ba7e63cc4a2a8fa9"
+          }
+        },
+        {
+          "client_id": "207043608978-pj2fqc4t3bcpk5vvgsqvp253ggj99ke2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDu15jDGtIeQgWybeupHx-8qZKgaTYxowg"
+          "current_key": "AIzaSyDGrxiTo3Gw6xlqFZL-GJ0B-8xOn2Dpwho"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "654421987855-9efks032v8oanl7k9f82qnbdobg5h8m4.apps.googleusercontent.com",
+              "client_id": "207043608978-pj2fqc4t3bcpk5vvgsqvp253ggj99ke2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
