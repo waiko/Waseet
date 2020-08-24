@@ -16,7 +16,7 @@ object Constants {
     const val myPreferences = "MyPreferences"
 
     object Config {
-         const  val DEFAULT_URL = "https://wasset.ws/main/wp-json/"
+         const  val DEFAULT_URL = "https://wasset.ws/wp-json/"
          const val consumerKey = "6lJaI3R8iE9H"
          const val consumerSecret = "I2gRPR8gKqn0KdsDJXh1AMH4c15vkHQfDMzVnNq4NIOPT4vm"
          const val token = "DzxAM38Nl9a6d9RNadr910Yu"
