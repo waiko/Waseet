@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WooBox</string>
+    <string name="app_name">Waseet</string>
     <string name="lbl_sign_in">Einloggen</string>
     <string name="lbl_sign_up">Anmelden</string>
     <string name="lbl_sign_in_with">Anmelden mit</string>
@@ -12,7 +12,7 @@
     <string name="lbl_did_not_receive">Didn\'t erhalten?</string>
     <string name="lbl_resend_code">Erneut senden Code</string>
     <string name="lbl_verify">Überprüfen</string>
-    <string name="lbl_hi_we_re_woobox">Hallo, wir sind WooBox!</string>
+    <string name="lbl_hi_we_re_woobox">Hallo, wir sind Waseet!</string>
     <string name="lbl_subheading">Wir machen um Ihre Stadt erschwinglich, einfach und effizient.</string>
     <string name="lbl_my_order">Meine Bestellung</string>
     <string name="lbl_reward">Belohnung</string>
@@ -156,7 +156,7 @@
     <string name="btn_sign_out">Ausloggen</string>
     <string name="msg_loading">Wird geladen</string>
     <string name="msg_please_wait">Warten Sie mal</string>
-    <string name="msg_walkHeading1">Hallo, wir\'re WooBox!</string>
+    <string name="msg_walkHeading1">Hallo, wir\'re Waseet!</string>
     <string name="msg_walkHeading2">Die meisten Unique Styles!</string>
     <string name="msg_walkHeading3">Einkaufen bis zum Umfallen!</string>
     <string name="msg_walkSubHeading2">Kauft die meisten Trending Art und Weise auf der größten Shopping-Website.</string>
@@ -255,7 +255,7 @@
     <string name="lbl_call_request">Call Request</string>
     <string name="lbl_email">Email</string>
     <string name="lbl_send_mail">E-Mail senden</string>
-    <string name="lbl_email_to_woobox">E-Mail an WooBox</string>
+    <string name="lbl_email_to_woobox">E-Mail an Waseet</string>
     <string name="lbl_from">Von</string>
     <string name="lbl_description">Beschreibung</string>
     <string name="hint_description_here">Beschreibung hier</string>
@@ -263,7 +263,7 @@
     <string name="error_enter_valid_contact">Geben Sie eine gültige Telefonnummer</string>
     <string name="title_contactus">Kontaktiere uns</string>
     <string name="lbl_card_number">Kartennummer</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">Länge</string>
     <string name="lbl_width">Breite</string>
     <string name="days">Tage</string>

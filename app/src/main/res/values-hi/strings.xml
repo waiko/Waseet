@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WooBox</string>
+    <string name="app_name">Waseet</string>
     <string name="lbl_night_mode">रात्री स्वरुप</string>
     <string name="lbl_sign_up">साइन अप करें</string>
     <string name="lbl_sign_in_with">के साथ साइन इन करें</string>
@@ -156,7 +156,7 @@
     <string name="btn_sign_out">प्रस्थान करें</string>
     <string name="msg_loading">लोड हो रहा है</string>
     <string name="msg_please_wait">कृपया प्रतीक्षा करें</string>
-    <string name="msg_walkHeading1">हाय, हम  Woobox!</string>
+    <string name="msg_walkHeading1">हाय, हम  Waseet!</string>
     <string name="msg_walkHeading2">सबसे अनोखी शैली!</string>
     <string name="msg_walkHeading3">आखरी दम तक शॉपिंग करो!</string>
     <string name="msg_walkSubHeading2">दुकान सबसे बड़ा शॉपिंग वेबसाइट पर सबसे ट्रेंडिंग फैशन।</string>
@@ -261,7 +261,7 @@
     <string name="error_enter_valid_contact">मान्य संपर्क नंबर दर्ज करें</string>
     <string name="title_contactus">संपर्क करें</string>
     <string name="lbl_card_number">कार्ड नंबर</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">लंबाई</string>
     <string name="lbl_width">चौड़ाई</string>
     <string name="days">दिन</string>

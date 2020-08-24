@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WooBox</string>
+    <string name="app_name">Waseet</string>
     <string name="lbl_sign_in">Masuk</string>
     <string name="lbl_sign_up">Daftar</string>
     <string name="lbl_sign_in_with">Masuk dengan</string>
@@ -12,7 +12,7 @@
     <string name="lbl_did_not_receive">Didn\'t menerima?</string>
     <string name="lbl_resend_code">kode Kirim Ulang</string>
     <string name="lbl_verify">Memeriksa</string>
-    <string name="lbl_hi_we_re_woobox">Hi, Kami adalah Woobox!</string>
+    <string name="lbl_hi_we_re_woobox">Hi, Kami adalah Waseet!</string>
     <string name="lbl_subheading">Kami membuat sekitar kota Anda Terjangkau, mudah dan efisien.</string>
     <string name="lbl_my_order">Pesananku</string>
     <string name="lbl_reward">Penghargaan</string>
@@ -156,7 +156,7 @@
     <string name="btn_sign_out">Keluar</string>
     <string name="msg_loading">Memuat</string>
     <string name="msg_please_wait">Tunggu sebentar</string>
-    <string name="msg_walkHeading1">Hi, Kami \'re Woobox!</string>
+    <string name="msg_walkHeading1">Hi, Kami \'re Waseet!</string>
     <string name="msg_walkHeading2">Kebanyakan Styles Unik!</string>
     <string name="msg_walkHeading3">Belanja habis-habisan!</string>
     <string name="msg_walkSubHeading2">Berbelanja yang paling tren fashion di website belanja terbesar.</string>
@@ -265,7 +265,7 @@
     <string name="error_enter_valid_contact">Masukkan nomor kontak yang valid</string>
     <string name="title_contactus">Hubungi kami</string>
     <string name="lbl_card_number">Nomor kartu</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">Panjangnya</string>
     <string name="lbl_width">Lebar</string>
     <string name="days">hari-hari</string>

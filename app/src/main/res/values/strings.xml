@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WooBox</string>
+    <string name="app_name">Waseet</string>
     <string name="lbl_sign_in">Sign In</string>
     <string name="lbl_sign_up">Sign Up</string>
     <string name="lbl_sign_in_with">Sign In with</string>
@@ -11,7 +11,7 @@
     <string name="lbl_did_not_receive">Didn\'t receive?</string>
     <string name="lbl_resend_code">Resend code</string>
     <string name="lbl_verify">Verify</string>
-    <string name="lbl_hi_we_re_woobox">Hi, We\'re Woobox!</string>
+    <string name="lbl_hi_we_re_woobox">Hi, We\'re Waseet!</string>
     <string name="lbl_subheading">We make around your city Affordable, easy and efficient.</string>
     <string name="lbl_my_order">My Order</string>
     <string name="lbl_reward">Reward</string>
@@ -155,7 +155,7 @@
     <string name="btn_sign_out">Sign Out</string>
     <string name="msg_loading">Loading</string>
     <string name="msg_please_wait">Please Wait</string>
-    <string name="msg_walkHeading1">Hi, We\'re Woobox!</string>
+    <string name="msg_walkHeading1">Hi, We\'re Waseet!</string>
     <string name="msg_walkHeading2">Most Unique Styles!</string>
     <string name="msg_walkHeading3">Shop Till You Drop!</string>
     <string name="msg_walkSubHeading2">Shop the most trending fashion on the biggest shopping website.</string>
@@ -258,7 +258,7 @@
     <string name="lbl_call_request">Call Request</string>
     <string name="lbl_email">Email</string>
     <string name="lbl_send_mail">Send mail</string>
-    <string name="lbl_email_to_woobox">Email to woobox</string>
+    <string name="lbl_email_to_woobox">Email to Waseet</string>
     <string name="lbl_from">From</string>
     <string name="lbl_description">Description</string>
     <string name="hint_description_here">Description here</string>
@@ -266,7 +266,7 @@
     <string name="error_enter_valid_contact">Enter valid contact number</string>
     <string name="title_contactus">Contact us</string>
     <string name="lbl_card_number">Card Number</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">Length</string>
     <string name="lbl_width">Width</string>
     <string name="days">Days</string>
@@ -321,12 +321,9 @@
     <string name="lbl_verified">Verified Buyer</string>
     <string name="contact_phone">+91 5435436</string>
 
-    <string name="ad_mob_app_id" translatable="false">ca-app-pub-4937593957421986~3239804062</string>
-    <string name="ad_mob_banner_id" translatable="false">ca-app-pub-4937593957421986/6921418147</string>
-    <string name="ad_mob_interstitial_id" translatable="false">ca-app-pub-4937593957421986/8959234608</string>
-    <!--<string name="ad_mob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="ad_mob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="ad_mob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="ad_mob_app_id" translatable="false">ca-app-pub-5507042899718190~4292749099</string>
+    <string name="ad_mob_banner_id" translatable="false">ca-app-pub-</string>
+    <string name="ad_mob_interstitial_id" translatable="false">ca-app-pub-</string>
     <string name="font_medium" translatable="false">fonts/Montserrat-Medium.ttf</string>
     <string name="font_semibold" translatable="false">fonts/Montserrat-SemiBold.ttf</string>
     <string name="font_bold" translatable="false">fonts/Montserrat-Bold.ttf</string>

@@ -1,7 +1,7 @@
 <resources>
 
 
-    <string name="app_name">WooBox</string>
+    <string name="app_name">وسيط</string>
     <string name="lbl_night_mode">الوضع الليلي</string>
     <string name="lbl_sign_up">سجل</string>
     <string name="lbl_sign_in">تسجيل الدخول</string>
@@ -14,7 +14,7 @@
     <string name="lbl_did_not_receive">لم يستقبل؟</string>
     <string name="lbl_resend_code">أعد إرسال الرمز</string>
     <string name="lbl_verify">تحقق</string>
-    <string name="lbl_hi_we_re_woobox">مرحبا، نحن Woobox!</string>
+    <string name="lbl_hi_we_re_woobox">مرحبا، نحن وسيط</string>
     <string name="lbl_subheading">يمكننا أن نجعل جميع أنحاء مدينتك بأسعار معقولة وسهلة وفعالة.</string>
     <string name="lbl_my_order">طلبي</string>
     <string name="lbl_reward">جائزة او مكافاة</string>
@@ -158,7 +158,7 @@
     <string name="btn_sign_out">خروج</string>
     <string name="msg_loading">جار التحميل</string>
     <string name="msg_please_wait">ارجوك انتظر</string>
-    <string name="msg_walkHeading1">مرحبا، نحن \ \'إعادة Woobox!</string>
+    <string name="msg_walkHeading1">مرحبا، نحن \ \'إعادة وسيط</string>
     <string name="msg_walkHeading2">معظم أنماط فريدة من نوعها!</string>
     <string name="msg_walkHeading3">متجر حتى انك قطرة!</string>
     <string name="msg_walkSubHeading2">تسوق في معظم الأزياء تتجه على اكبر موقع للتسوق.</string>
@@ -266,7 +266,7 @@
     <string name="error_enter_valid_contact">أدخل رقم الاتصال ساري المفعول</string>
     <string name="title_contactus">اتصل بنا</string>
     <string name="lbl_card_number">رقم البطاقة</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">الطول</string>
     <string name="lbl_width">عرض</string>
     <string name="days">أيام</string>

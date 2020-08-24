@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WooBox</string>
+    <string name="app_name">Waseet</string>
     <string name="lbl_sign_in">Se connecter</string>
     <string name="lbl_sign_up">S\'inscrire</string>
     <string name="lbl_sign_in_with">Se connecter avec</string>
@@ -11,7 +11,7 @@
     <string name="lbl_did_not_receive">Didn\'t recevoir?</string>
     <string name="lbl_resend_code">Renvoyer le code</string>
     <string name="lbl_verify">Vérifier</string>
-    <string name="lbl_hi_we_re_woobox">Salut, Nous sommes Woobox!</string>
+    <string name="lbl_hi_we_re_woobox">Salut, Nous sommes Waseet!</string>
     <string name="lbl_subheading">Nous faisons autour de votre ville abordable, facile et efficace.</string>
     <string name="lbl_my_order">Ma commande</string>
     <string name="lbl_reward">Récompense</string>
@@ -155,7 +155,7 @@
     <string name="btn_sign_out">Déconnexion</string>
     <string name="msg_loading">Chargement</string>
     <string name="msg_please_wait">S\'il vous plaît, attendez</string>
-    <string name="msg_walkHeading1">Salut, Nous sommes Woobox!</string>
+    <string name="msg_walkHeading1">Salut, Nous sommes Waseet!</string>
     <string name="msg_walkHeading2">La plupart des styles uniques!</string>
     <string name="msg_walkHeading3">Envolez vous!</string>
     <string name="msg_walkSubHeading2">Boutique de mode les plus tendance sur le plus grand site commercial.</string>
@@ -261,7 +261,7 @@
     <string name="error_enter_valid_contact">Entrez le numéro de contact valide</string>
     <string name="title_contactus">Nous contacter</string>
     <string name="lbl_card_number">Numéro de carte</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">Longueur</string>
     <string name="lbl_width">Largeur</string>
     <string name="days">Journées</string>

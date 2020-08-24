@@ -2,7 +2,7 @@
 <resources>
 
 
-    <string name="app_name">WooBox</string>
+    <string name="app_name">Waseet</string>
     <string name="lbl_sign_in">Teken In</string>
     <string name="lbl_sign_up">Teken aan</string>
     <string name="lbl_sign_in_with">Teken in met</string>
@@ -14,7 +14,7 @@
     <string name="lbl_did_not_receive">Didn\'t ontvang?</string>
     <string name="lbl_resend_code">Herstuur kode</string>
     <string name="lbl_verify">verifieer</string>
-    <string name="lbl_hi_we_re_woobox">Hi, Ons is Woobox!</string>
+    <string name="lbl_hi_we_re_woobox">Hi, Ons is Waseet!</string>
     <string name="lbl_subheading">Ons maak rondom jou stad Bekostigbare, maklik en doeltreffend te maak.</string>
     <string name="lbl_my_order">My bestelling</string>
     <string name="lbl_reward">Beloning</string>
@@ -158,7 +158,7 @@
     <string name="btn_sign_out">Teken uit</string>
     <string name="msg_loading">laai</string>
     <string name="msg_please_wait">Wag asseblief</string>
-    <string name="msg_walkHeading1">Hi, Ons\'re Woobox!</string>
+    <string name="msg_walkHeading1">Hi, Ons\'re Waseet!</string>
     <string name="msg_walkHeading2">Die meeste unieke style!</string>
     <string name="msg_walkHeading3">Koop tot jy neerslaan!</string>
     <string name="msg_walkSubHeading2">Shop die mees trending mode op die grootste shopping webwerf.</string>
@@ -264,7 +264,7 @@
     <string name="error_enter_valid_contact">Voer\'n geldige kontaknommer</string>
     <string name="title_contactus">Kontak Ons</string>
     <string name="lbl_card_number">Kaart nommer</string>
-    <string name="text_iqonicdesign_gmail_com">iqonicdesign@gmail.com</string>
+    <string name="text_iqonicdesign_gmail_com">info@waseet.shop</string>
     <string name="lbl_length">lengte</string>
     <string name="lbl_width">wydte</string>
     <string name="days">dae</string>
